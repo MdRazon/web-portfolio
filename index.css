@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    font-size: 30px;
+}
+
+p{
+    color: peru;
+}
+.name-highlight{
+    color: orange;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 100%;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500px;
+
+}  
+.single-experience{
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 5px;
+    height: 80%;
+    border: 5px blueviolet;
+    
+footer p{
+    text-align: center;
+    font-size: 12px;
+
+}
